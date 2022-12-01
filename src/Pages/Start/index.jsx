@@ -5,13 +5,13 @@ export default function Start() {
   return (
     <View>
       <ScrollView showsVerticalScrollIndicator={false}>
-        <view>
-          <image source={require("../../Assets/icons/logo3.png")} />
-          <text>
+        <View>
+          <Image source={require("../../Assets/icons/logo3.png")} />
+          <Text>
             Vamos transformar sua vida {"\n"} em um jogo, buscando sempre {"\n"}{" "}
             o melhor nível.
-          </text>
-        </view>
+          </Text>
+        </View>
       </ScrollView>
     </View>
   );
