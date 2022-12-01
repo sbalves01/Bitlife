@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "npx",
+    "slug": "npx",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
